@@ -71,6 +71,8 @@ python static_malware_analyzer.py OfficeSetup.exe
 ```
 
 ---
+<img width="778" alt="image" src="https://github.com/user-attachments/assets/3842cdbc-d98a-4fe0-b7b2-19ae78677105" />
+
 
 ## Optional Improvements
 
