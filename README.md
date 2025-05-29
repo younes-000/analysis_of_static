@@ -82,8 +82,3 @@ python static_malware_analyzer.py OfficeSetup.exe
 - Add entropy thresholding for suspicious sections  
 
 ---
-
-## Disclaimer
-
-This script is provided for educational and research purposes only. Do not use it in production environments to analyze untrusted files unless you are in a properly isolated sandbox.
-```
